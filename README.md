@@ -1,4 +1,4 @@
-#Class-Task
+# Class-Task
 # Image Viewer with OpenCV and Tkinter
 
 This repository contains a simple Python script, `images.py`, that allows users to select and display images using the OpenCV and Tkinter libraries. The `Images` folder contains a collection of Tekken 8 wallpapers sourced from Google.
